@@ -1,0 +1,6 @@
+Destination    Flight Route from  A    Total Cost
+B               A, B                   $100
+C               A, B, C                   $300
+G               A, B, C, G                   $550
+D               A, B, C, G, D                   $750
+H               A, B, C, G, H                   $850

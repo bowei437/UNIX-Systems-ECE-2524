@@ -1,0 +1,38 @@
+
+
+Tue Oct 13 01:41:04 2015
+Command line: TestDisk
+
+TestDisk 6.14, Data Recovery Utility, July 2013
+Christophe GRENIER <grenier@cgsecurity.org>
+http://www.cgsecurity.org
+OS: Linux, kernel 3.19.0-30-generic (#34-Ubuntu SMP Fri Oct 2 22:08:41 UTC 2015) x86_64
+Compiler: GCC 4.9
+Compilation date: 2015-04-03T09:01:54
+ext2fs lib: 1.42.12, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none
+/dev/sda: LBA, HPA, LBA48 support
+/dev/sda: size       468862128 sectors
+/dev/sda: user_max   468862128 sectors
+/dev/sda: native_max 468862128 sectors
+/dev/sdb: LBA, LBA48, DCO support
+/dev/sdb: size       976773168 sectors
+/dev/sdb: user_max   976773168 sectors
+/dev/sdb: dco        976773168 sectors
+/dev/sdc: LBA, HPA, LBA48, DCO support
+/dev/sdc: size       1953525168 sectors
+/dev/sdc: user_max   1953525168 sectors
+/dev/sdc: native_max 1953525168 sectors
+/dev/sdc: dco        976773168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 1 sectors, sector size=512
+/dev/sr0 is not an ATA disk
+Hard disk list
+Disk /dev/sda - 240 GB / 223 GiB - CHS 29185 255 63, sector size=512 - ST240HM000-1G5152, S/N:Z4N008CL, FW:C675
+Disk /dev/sdb - 500 GB / 465 GiB - CHS 60801 255 63, sector size=512 - ST3500630AS, S/N:9QG6FP0Y, FW:3.CHL
+Disk /dev/sdc - 1000 GB / 931 GiB - CHS 121601 255 63, sector size=512 - ST31000528AS, S/N:9VP2NBQG, FW:CC37
+Disk /dev/sr0 - 287 MB / 273 MiB - 140180 sectors (RO), sector size=2048 - ATAPI   iHES108   2, S/N:3782208006 250931401, FW:7L05
+
+Partition table type (auto): Intel
+Disk /dev/sda - 240 GB / 223 GiB - ST240HM000-1G5152
+Partition table type: Intel
+
+TestDisk exited normally.
